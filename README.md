@@ -71,6 +71,5 @@ cats&dogs/
 
 👨‍💻 Geliştirici
 
-Alperen Demirel
-📚 Elektrik-Elektronik Mühendisliği
+Alperen D
 💡 Yapay Zeka • Otomasyon • Enerji Sistemleri
